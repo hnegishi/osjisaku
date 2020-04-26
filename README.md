@@ -1,5 +1,3 @@
-
-
 ## install
 
 - qemu インストール ...🍺
@@ -54,6 +52,11 @@ $ make up
 ```bash
 $ make down
 ```
+
+## localで使ってるバイナリエディタ
+[Hex Fiend](https://apps.apple.com/jp/app/hex-fiend/id1342896380?l=en&mt=12)
+
+特に拘りはない。
 
 ## URL
 https://github.com/HariboteOS/tolenv/
