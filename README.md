@@ -1,7 +1,14 @@
 ## install qemu
+
+エミュレータ インストール ...🍺
+
 https://www.qemu.org/
 ```bash
 $ brew install qemu
+
+# version 2020/4/26
+$ qemu-system-i386 -version
+QEMU emulator version 4.2.0
 ```
 
 ## setup
