@@ -46,7 +46,11 @@ $ make pull
 ### container up
 ```bash
 $ make up
+
+# docker exec
+$ make pry
 ```
+
 
 ### container down
 ```bash
