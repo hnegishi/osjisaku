@@ -33,6 +33,10 @@ $ cd osjisaku/01/helloos0
 $ make run
 ```
 
+🎉🎉🎉
+![image](https://user-images.githubusercontent.com/30515665/80303198-a98de580-87e9-11ea-9fe3-6d94cf65fcfe.png)
+
+
 
 ## 開発環境(必要に応じて)
 
